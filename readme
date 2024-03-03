@@ -1,0 +1,8 @@
+    Calculator:
+    Implemented a versatile calculator application using Python. This calculator supports basic arithmetic operations including addition, subtraction, multiplication, and division. Additionally, it includes functionality for more advanced operations such as exponentiation and square root. The application provides a user-friendly interface for seamless interaction and efficient calculation.
+
+    Currency Converter:
+    Developed a currency converter tool in Python to facilitate easy and accurate currency conversion. Leveraging up-to-date exchange rate data, this converter enables users to effortlessly convert between different currencies. With support for a wide range of currencies and intuitive user input, the tool offers convenience and precision for individuals and businesses alike.
+
+    Random Password Generator:
+    Created a robust random password generator utility in Python. This tool generates strong and secure passwords with customizable parameters including length, character sets, and complexity. With its user-friendly interface and flexible options, this password generator empowers users to create unique and reliable passwords tailored to their specific needs, enhancing security across various applications and platforms.
